@@ -1,0 +1,16 @@
+Nama Aplikasi Ngopibareng ( Codeigniter )
+
+Database : db_ngopibareng.sql
+
+
+
+BACKEND
+http://localhost/ngopibareng/index.php/admin/login
+Buka dengan menggunakan Akses Admin : username = admin; Pass :12345
+Buka dengan menggunakan Akses Pemilik : username = pemilik; Pass :12345
+
+
+
+
+
+
